@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Portafolio de Mariana / Mariana's Portfolio
 
-You can use the [editor on GitHub](https://github.com/mvasquezb98/mvasquezb98/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<p align="center">
+  <img src="20210114_201359.jpg" alt="yop" width="200"/>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Soy Mariana Vásquez, estudiante de Ingeniería Civil Industrial de la Universidad de Chile y este es el espacio donde puedes encontrar los proyectos asociados a las ciencia de los datos en los que he trabajado. Muchos de estos son realizados en un contexto académico, mientras que otros son proyectos personales, pero todos son reflejo de mi interés por campos dentro del contexto de las matemáticas, la estadística, la ciencia de la información, y la informática.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Dentro de los lenguajes de programación con los que me familiarizo están:
 
-- Bulleted
-- List
+> - R 
+> - Python 
 
-1. Numbered
-2. List
+Y para el manejo de base de datos:
 
-**Bold** and _Italic_ and `Code` text
+> - MySQL
+> - PostgreSQL
+> - MongoDB
+> - MariaDB
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mvasquezb98/mvasquezb98/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
