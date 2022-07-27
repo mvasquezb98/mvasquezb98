@@ -1,7 +1,7 @@
 
 ## Portafolio de Mariana / Mariana's Portfolio
 
-Soy Mariana Vásquez, estudiante de Ingeniería Civil Industrial de la Universidad de Chile y este es el espacio donde puedes encontrar los proyectos asociados a las ciencia de los datos en los que he trabajado. Muchos de estos son realizados en un contexto académico, mientras que otros son proyectos personales, pero todos son reflejo de mi interés por campos dentro del contexto de las matemáticas, la estadística, la ciencia de la información, y la informática.
+Soy Mariana Vásquez, estudiante de Ingeniería Civil Industrial de la Universidad de Chile y este es el espacio donde puedes encontrar los proyectos asociados a las ciencia de los datos en los que he trabajado. Muchos de estos son realizados en un contexto académico, mientras que otros son proyectos personales, pero todos son reflejo de mi interés por campos dentro del contexto de las matemáticas, la estadística, la ciencia de la información y la informática.
 
 Dentro de los lenguajes de programación con los que me familiarizo están:
 
